@@ -12,16 +12,11 @@
 4. 默认登录账号，密码  admin  admin
 
 
+所有主要逻辑文件 
+https://github.com/aqsmoke/aqadmin/blob/master/include/aq.action.php
 
 
 
-
-
-5.
-4.拥有搜索功能
-3.拥有字段检查功能，需要配置函数，按照规则。 需要少许编程知识  2012.1.9
-2.拥有增删改查功能，以及全删。。。   2012.1.8
-1.拥有列表功能    2012.1.6 
-
-
-
+开发一个后台页面非常简单：
+例子：
+https://github.com/aqsmoke/aqadmin/blob/master/action/aq.example.php
