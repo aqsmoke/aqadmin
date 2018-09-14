@@ -1,0 +1,131 @@
+2012-07-20 09:37:41 | 127.0.0.1 | /aqadmin/index.php |<b>出错</b>: 无法连接到数据库服务器<br>
+2012-07-20 09:40:37 | 127.0.0.1 | /aqadmin/index.php |<b>出错</b>: MySQL Query Error<br>
+2012-07-20 09:40:38 | 127.0.0.1 | /aqadmin/index.php |<b>出错</b>: MySQL Query Error<br>
+2012-07-20 09:40:39 | 127.0.0.1 | /aqadmin/index.php |<b>出错</b>: MySQL Query Error<br>
+2012-07-20 09:40:39 | 127.0.0.1 | /aqadmin/index.php |<b>出错</b>: MySQL Query Error<br>
+2012-07-20 09:40:39 | 127.0.0.1 | /aqadmin/index.php |<b>出错</b>: MySQL Query Error<br>
+2012-07-20 09:40:50 | 127.0.0.1 | /aqadmin/index.php |<b>出错</b>: MySQL Query Error<br>
+2012-07-20 09:41:15 | 127.0.0.1 | /aqadmin/index.php |<b>出错</b>: MySQL Query Error<br>
+2012-07-20 09:41:15 | 127.0.0.1 | /aqadmin/index.php |<b>出错</b>: MySQL Query Error<br>
+2012-07-20 09:41:15 | 127.0.0.1 | /aqadmin/index.php |<b>出错</b>: MySQL Query Error<br>
+2012-07-20 09:41:15 | 127.0.0.1 | /aqadmin/index.php |<b>出错</b>: MySQL Query Error<br>
+2012-07-20 09:41:38 | 127.0.0.1 | /aqadmin/index.php |<b>出错</b>: MySQL Query Error<br>
+2012-07-20 09:42:17 | 127.0.0.1 | /aqadmin/index.php |<b>出错</b>: MySQL Query Error<br>
+2012-07-20 09:43:58 | 127.0.0.1 | /aqadmin/index.php |<b>出错</b>: MySQL Query Error<br>
+2012-07-20 09:44:02 | 127.0.0.1 | /aqadmin/index.php |<b>出错</b>: MySQL Query Error<br>
+2012-07-20 09:46:35 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:48:34 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:48:35 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:48:35 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:48:35 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:48:35 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:48:47 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:48:48 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:48:48 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:48:48 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:48:48 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:48:48 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:48:48 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:48:49 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:48:49 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:48:49 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:49:15 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:49:15 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:49:15 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:49:16 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:49:16 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:49:16 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:49:16 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:49:16 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:49:17 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:49:17 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:49:17 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:49:17 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>
+2012-07-20 09:49:17 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT * FROM adminuser WHERE adminname = 'admin'<br>
+						<b>错误详情</b>: No database selected<br>
+						<b>错误代码</b>:1046<br>

@@ -1,0 +1,4 @@
+2012-08-27 16:54:11 | 127.0.0.1 | /aqadmin/index.php |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) as c FROM contestant<br>
+						<b>错误详情</b>: Table 'aqadmintest.contestant' doesn't exist<br>
+						<b>错误代码</b>:1146<br>
